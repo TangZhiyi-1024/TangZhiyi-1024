@@ -26,35 +26,16 @@ Public implementations and demos can be found in my repositories below.
 
 ## ⭐ Key Skills
 
-### Programming Languages
-Python, C++, Java, JavaScript, TypeScript, C#, SQL
-
-### Frontend Development
-Angular, Vue.js, React.js, Next.js, HTML/CSS
-
-### Backend Development
-Django, Flask, Node.js, Spring Boot, JWT, WebSocket, GraphQL
-
-### Databases & Storage
-PostgreSQL, MySQL, MongoDB, Redis, Neo4j
-
-### DevOps & Cloud
-AWS, Azure, Docker, CI/CD
-
-### Version Control & Collaboration
-Git, GitHub, Jira
-
-### Models & Methods
-Neural Networks, Transformers, Computer Vision, NLP
-
-### AI Tools & Frameworks
-PyTorch, TensorFlow, Scikit-learn, OpenCV, LangChain
-
-### LLM & AI Systems
-LLMs, Agent-based Systems, Retrieval-Augmented Generation (RAG)
-
-### Analytics & Productivity
-Tableau, Microsoft Office
+- **Programming Languages:** Python, C++, Java, JavaScript, TypeScript, C#, SQL
+- **Frontend Development:** Angular, Vue.js, React.js, Next.js, HTML/CSS
+- **Backend Development:** Django, Flask, Node.js, Spring Boot, JWT, WebSocket, GraphQL
+- **Databases & Storage:** PostgreSQL, MySQL, MongoDB, Redis, Neo4j
+- **DevOps & Cloud:** AWS, Azure, Docker, CI/CD
+- **Version Control & Collaboration:** Git, GitHub, Jira
+- **Models & Methods:** Neural Networks, Transformers, Computer Vision, NLP
+- **AI Tools & Frameworks:** PyTorch, TensorFlow, Scikit-learn, OpenCV, LangChain
+- **LLM & AI Systems:** LLMs, Agent-based Systems, Retrieval-Augmented Generation (RAG)
+- **Analytics & Productivity:** Tableau, Microsoft Office
 
 ---
 

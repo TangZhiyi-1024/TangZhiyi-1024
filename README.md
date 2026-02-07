@@ -37,7 +37,7 @@ Below are selected projects.
 Some repositories are forks from organizational accounts, where I served as a **primary contributor and system designer**.
 
 
-### Computer Vision & Imaging
+### Computer Vision 
 
 - [Demosaicing and HDR](https://github.com/TangZhiyi-1024/Demosaicing-and-HDR) – Image demosaicing and High Dynamic Range reconstruction pipeline.
 - [Face Recognition](https://github.com/TangZhiyi-1024/Face-Recognition) – End-to-end face identification system using deep features. 

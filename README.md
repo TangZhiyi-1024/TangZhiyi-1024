@@ -50,7 +50,7 @@ Some repositories are forks from organizational accounts, where I served as a **
 
 - [NeuralNetworkDTMC](https://github.com/TangZhiyi-1024/NeuralNetworkDTMC) – Neural network based discrete transition system modeling project. 
 - [Infant-Vision-Inspired-Curriculum-Learning](https://github.com/TangZhiyi-1024/Infant-Vision-Inspired-Curriculum-Learning) – Visual curriculum training with contrast & blur scheduling. 
-- [Pytorch_infant-vision-simulation](https://github.com/TangZhiyi-1024/Pytorch_infant-vision-simulation) – Simulating infant vision development degradations via PyTorch.{index=8}  
+- [Pytorch_infant-vision-simulation](https://github.com/TangZhiyi-1024/Pytorch_infant-vision-simulation) – Simulating infant vision development degradations via PyTorch.
 - [NeuralNetwork-From-Scratch-Numpy](https://github.com/TangZhiyi-1024/NeuralNetwork-From-Scratch-Numpy) – From-scratch implementation of neural networks in NumPy. 
 
 

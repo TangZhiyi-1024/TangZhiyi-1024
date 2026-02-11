@@ -41,9 +41,9 @@ Some repositories are forks from organizational accounts, where I served as a **
 
 - [Demosaicing and HDR](https://github.com/TangZhiyi-1024/Demosaicing-and-HDR) – Image demosaicing and High Dynamic Range reconstruction pipeline.
 - [Face Recognition](https://github.com/TangZhiyi-1024/Face-Recognition) – End-to-end face identification system using deep features. 
-- [writer-identification](https://github.github.com/TangZhiyi-1024/writer-identification) – Handwriting retrieval and writer classification system.  
-- [CV-Box-Detection](https://github.com/TangZhiyi-1024/CV-Box-Detection) – Box detection with geometric computer vision methods (RANSAC planes). 
-
+- [Writer-Identification](https://github.github.com/TangZhiyi-1024/writer-identification) – Handwriting retrieval and writer classification system.  
+- [CV-Box-Detection](https://github.com/TangZhiyi-1024/CV-Box-Detection) – Box detection with geometric computer vision methods (RANSAC planes).
+- [Selective_Search](https://github.com/TangZhiyi-1024/selective_search) – Implemented an end-to-end object detection pipeline: selective search proposals → feature extraction → SVM training/inference → mAP evaluation.
 
 
 ### Machine Learning & Models
